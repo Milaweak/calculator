@@ -1,0 +1,51 @@
+button {
+    height: 35px;
+    width: 35px;
+    background-color: aquamarine;
+    border-radius: 15px;
+    margin: 3px;
+}
+
+
+#reset-button {
+    margin-top: 10px;
+    width: 70px;
+    background-color: rgb(94, 157, 220);
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+
+
+}
+
+
+#display {
+    height: 35px;
+    width: 170px;
+    background-color: aquamarine;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+
+.container {
+    width: 180px;
+    height: 300px;
+    
+    justify-items: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+.operator {
+    background-color: rgb(94, 157, 220);
+}
+
+#equals {
+    background-color:  rgb(94, 157, 220);
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(94, 157, 220) ;
+}
